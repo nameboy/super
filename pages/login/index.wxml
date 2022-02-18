@@ -1,0 +1,8 @@
+<button
+  type="primary"
+  plain="{{true}}"
+  open-type="getUserInfo"
+  bindgetuserinfo="hanlegetUserInfo"
+>登陆
+</button>
+
